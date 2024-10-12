@@ -1,0 +1,16 @@
+[
+  {
+    "monedaInicial": "CLP",
+    "monedaFinal": "USD",
+    "montoFinal": 0.003219,
+    "fechaRegistro": "12-10-2024",
+    "horaRegistro": "01:19:25"
+  },
+  {
+    "monedaInicial": "EUR",
+    "monedaFinal": "CLP",
+    "montoFinal": 7139.8915,
+    "fechaRegistro": "12-10-2024",
+    "horaRegistro": "01:19:38"
+  }
+]
